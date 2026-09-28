@@ -1,0 +1,109 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Top Places to Visit in India",
+      "image": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+      "category": "Travel",
+      "date": "28 September 2026"
+    },
+    {
+      "id": "2",
+      "title": "Best Street Food in India",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+      "category": "Food",
+      "date": "25 September 2026"
+    },
+    {
+      "id": "3",
+      "title": "Morning Routine for a Healthy Life",
+      "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773",
+      "category": "Lifestyle",
+      "date": "22 September 2026"
+    },
+    {
+      "id": "4",
+      "title": "Beautiful Beaches to Explore",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "category": "Travel",
+      "date": "20 September 2026"
+    },
+    {
+      "id": "5",
+      "title": "Simple Home Workout Ideas",
+      "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438",
+      "category": "Fitness",
+      "date": "18 September 2026"
+    },
+    {
+      "id": "6",
+      "title": "Photography Tips for Beginners",
+      "image": "https://images.unsplash.com/photo-1452780212940-6f5c0d14d848",
+      "category": "Photography",
+      "date": "15 September 2026"
+    },
+    {
+      "id": "7",
+      "title": "How to Plan a Perfect Trip",
+      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+      "category": "Travel",
+      "date": "12 September 2026"
+    },
+    {
+      "id": "8",
+      "title": "Delicious Indian Breakfast Ideas",
+      "image": "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7",
+      "category": "Food",
+      "date": "10 September 2026"
+    },
+    {
+      "id": "9",
+      "title": "Peaceful Places for a Weekend Trip",
+      "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+      "category": "Travel",
+      "date": "8 September 2026"
+    },
+    {
+      "id": "10",
+      "title": "Best Sunset Spots",
+      "image": "https://images.unsplash.com/photo-1472120435266-53107fd0c44a",
+      "category": "Nature",
+      "date": "5 September 2026"
+    },
+    {
+      "id": "11",
+      "title": "Fashion Trends for 2026",
+      "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d",
+      "category": "Fashion",
+      "date": "2 September 2026"
+    },
+    {
+      "id": "12",
+      "title": "Amazing Mountains to Visit",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b",
+      "category": "Nature",
+      "date": "30 August 2026"
+    },
+    {
+      "id": "13",
+      "title": "Easy Recipes for Beginners",
+      "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f",
+      "category": "Cooking",
+      "date": "27 August 2026"
+    },
+    {
+      "id": "14",
+      "title": "Best Road Trip Ideas",
+      "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800",
+      "category": "Road Trip",
+      "date": "24 August 2026"
+    },
+    {
+      "id": "15",
+      "title": "Beautiful Nature Destinations",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7",
+      "category": "Nature",
+      "date": "20 August 2026"
+    }
+  ]
+}  
