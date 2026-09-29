@@ -121,7 +121,7 @@ Supported API operations:
 
 ### ▶️ Blog Application Demo
 
-[🎬 Click Here to Watch Project Demo Video](YOUR_VIDEO_LINK_HERE)
+[🎬 Click Here to Watch Project Demo Video](https://drive.google.com/file/d/1myEKqjJnVG9kiHJCWQXJOt6ncPQcveg3/view?usp=sharing)
 
 ---
 
